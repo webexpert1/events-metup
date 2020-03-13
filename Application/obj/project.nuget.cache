@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tKiF3gHgW9hCPEjoXapJOf+Ai7QB+ITqYwH1xCl1S4PgAq7o2FpcQ6v22euhFAi0U1GcXuAFuZgHSP6ogM+U/w==",
+  "dgSpecHash": "8wztjyjVIAvBbt69WPXaHVQBkqnovf5Y1ROFJX0V0V7kgaPi8m9xMYmd26AB6yXcC84LXZz8sME6TYgEqtT/Bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\ionic\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
